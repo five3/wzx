@@ -1,0 +1,28 @@
+.hide {
+	display:none;
+}
+
+.center {
+	width: 990px;
+	margin: 0 auto;
+}
+.items{
+	display:inline-block;
+}
+.garybg{
+	background-color:#E6E6FA;
+}
+
+#head div  img {
+	vertical-align: bottom;
+}
+#mid_bar a {
+	font-size:20px;
+	margin: 0 24px;	
+}
+#navi3_more a {
+	margin: 0 24px;
+}
+#search_nav a {
+	margin: 0 15px;
+}
